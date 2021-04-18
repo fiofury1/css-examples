@@ -1,0 +1,17 @@
+
+p {
+    border-style: solid;
+    border-width: thin;
+}
+
+#grid-example {
+    display: grid;
+    border-style: solid;
+    border-width: thin;
+}
+
+#inline-grid-example {
+    display: inline-grid;
+    border-style: solid;
+    border-width: thin;
+}

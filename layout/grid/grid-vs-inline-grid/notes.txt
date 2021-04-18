@@ -1,0 +1,5 @@
+Here we show the differnce in behavior by setting the display property to 'grid' vs. 'inline-grid'.
+
+'grid' - The grid takes up the full width of it's parent container.
+
+'inline-grid' - The grid is only as wide as its contents.
